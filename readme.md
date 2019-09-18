@@ -32,6 +32,7 @@ And repeat
 ## Deployment
 
 Current: Beta
+
 Future: Version 1.0.1 will be an .exe containing all dependancies and will OCR the pdf's to create searchable text
 
 ## Built With
