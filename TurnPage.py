@@ -1,7 +1,6 @@
 # -*- coding: utf-8 -*-
 from PyUserInput import pymouse
-from pynput.mouse import Listener
-from pynput.mouse import Button, Controller
+from pynput.mouse import Listener, Button, Controller
 from time import sleep
 
 def Click(x,y):
